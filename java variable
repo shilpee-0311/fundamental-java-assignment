@@ -1,0 +1,34 @@
+
+Q1:- What is statically typed and Dynamically typed Programming language?
+Ans:- Statically typed programming language:-
+Statically typed languges are the language like C,C++,JAVA type of language the data type of a variable is known at the compile time which means the programmer has to specify the data type  of a variable at the time of its declaration 
+ Dynamic typed programming language :-
+dynamically typed languages, type checking takes place at runtime or execution time. This means that variables are checked against types only when the program is executing. Some examples of programming languages that belong to this category are Python, JavaScript, Lisp, PHP, Ruby, Perl
+
+
+Q2:- What is the variable in Java ?
+Ans:-Variables are the data containers that save the data values during Java program execution. Every Variable in Java is assigned a data type that designates the type and quantity of value it can hold. A variable is a memory location name for the data
+Q3:- How to Assign a Value to Variable?
+Ans:- to assign a value
+a=4;
+b=6; 
+
+Q4:- What are Primitive data type in Java ?
+Ans:-primitive data type are those data that already exist in java  like char.int,float,byte,long,double
+Q5;- What are the identifiers in java?
+Ans:-Identifiers in Java are symbolic names used for identification. They can be a class name, variable name,
+method name, package name, constant name, and more. However, In Java , There are some reserved words
+that can not be used as an identifier.
+
+Q6:- List the Operators in Java?
+Ans:-Operators in Java
+1) Arithmetic Operator
+2) Relational Operator
+3) Logical Operator
+4)Assignment Operator
+5)Unary Operator
+6)Bitwise Operators
+
+Q7:-Explain about increment and decrement operators and give an examples?
+Ans:-The increment (++) and decrement (–) operators are unary operators in Java, which means they operate on a single operand. They are used to increase or decrease the value of an integer, floating-point, or character variable by 1. These operators can be applied in two ways: prefix and postfix.
+
