@@ -1,0 +1,44 @@
+Q1)What is Programming language ?
+Ans:-Programming is a practice that strengthens our capacity for logical thought and problem-solving. It
+teaches us how to carry out a task with the aid of software or a computer program. So, to put it simply,
+programming is the process of using computer language to bring a solution to a problem into practice.
+
+Q2) Why do we need a programming language ?
+Ans:-Programming Language- it is vocabulary and a collection of rules that command a computer, devices,
+applications to work according to the written codes. The programming language enables us to write efficient
+programs and develop online solutions such as- mobile applications, web applications, and games, etc.
+Programming is used to automate, maintain, assemble, measure and interpret the processing of the data and
+information. It helps in accelerating the input and output of the devices or applicationsJ
+
+Q3) What are the features of Java?
+Ans:- features of java
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Interpreted
+High Performance
+Multithreaded
+Distributed
+Dynamic
+
+
+Q4)What is an object?
+Ans:-Ans: An object is an entity with state and behaviour, such as a chair, bike, marker, pen, table, or car. It could be
+intellectual or physical (tangible and intangible). The banking system is an illustration of an intangible entity
+
+
+Q5) What is a class ?
+Ans:-A class is a collection of items with similar characteristics. It serves as a model or blueprint from which
+things can be made. It makes sense as a whole. It cannot be bodilyJ
+
+
+
+Q6)Explain about the main() method in Java?
+Ans:-The Java main method is usually the first method you learn about when you start programming in Java because its the entry point for executing a Java program. The main method can contain code to execute or call other methods, and it can be placed in any class that's part of a program.
+
+
+
